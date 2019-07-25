@@ -1,4 +1,3 @@
-package Lesson1;
 /*
  * Lesson 1 Coding Activity Question 1
  * 
